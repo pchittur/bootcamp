@@ -8,3 +8,4 @@ def xa_to_diameter(xa):
 
     #Compute diameter
     diameter = np.sqrt(xa * 4 / np.pi)
+    return diameter
